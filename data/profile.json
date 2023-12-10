@@ -66,22 +66,17 @@
       {
         "name": "Uniasselvi / Sistema de Informação",
         "period": "2002 - 2005",
-        "description": "Bacharelado em Analista de Sistemas, analisar e distribuir informações por 
-                        meio de tecnologias, incluindo hardware, software e rede. Desse modo, as 
-                        organizações adquirem maior eficiência nos processos, tomando decisões 
-                        informadas."
+        "description": "Bacharelado em Analista de Sistemas, analisar e distribuir informações por meio de tecnologias, incluindo hardware, software e rede. Desse modo, as organizações adquirem maior eficiência nos processos, tomando decisões informadas."
       },
       {
         "name": "Potência Tech iFood - Programação do Zero",
         "period": "2023 - 2023",
-        "description": "Botcamp dos melhores cursos de Programação do Zero com o ensinamento na pratica e
-                        aprendizagem em Logica de Programação e JavaScript."
+        "description": "Botcamp dos melhores cursos de Programação do Zero com o ensinamento na pratica e aprendizagem em Logica de Programação e JavaScript."
       },
       {
         "name": "Descubra a Nuvem AWS – LocalizaLabs",
         "period": "2023 - 2023",
-        "description": "Segundo Botcamp administrada pela Dio.me sendo seu incrivel ensinamento sobre 
-                        AWS."
+        "description": "Segundo Botcamp administrada pela Dio.me sendo seu incrivel ensinamento sobre AWS."
       }
     ]
   }
