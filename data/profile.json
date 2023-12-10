@@ -47,13 +47,18 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Curso Ministrado na DIO.me para a criação de uma Pokedex",
+        "url": "https://github.com/Andersondlz/PrimeiroAPI_PokeAPI",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Curso Ministrado na DIO.me para a criação de uma página de portfolio",
+        "url": "https://github.com/Andersondlz/desafio_dio_Portfolio",
+        "github": true
+      },
+      {
+        "name": "Curso DEV Samurai para a criação de uma página de jogo Ping Pong",
+        "url": "https://github.com/Andersondlz/jogo_pigpog",
         "github": true
       }
     ],
