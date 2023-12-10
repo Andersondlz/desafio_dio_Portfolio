@@ -64,19 +64,24 @@
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Uniasselvi / Sistema de Informação",
+        "period": "2002 - 2005",
+        "description": "Bacharelado em Analista de Sistemas, analisar e distribuir informações por 
+                        meio de tecnologias, incluindo hardware, software e rede. Desse modo, as 
+                        organizações adquirem maior eficiência nos processos, tomando decisões 
+                        informadas."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "Potência Tech iFood - Programação do Zero",
+        "period": "2023 - 2023",
+        "description": "Botcamp dos melhores cursos de Programação do Zero com o ensinamento na pratica e
+                        aprendizagem em Logica de Programação e JavaScript."
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Descubra a Nuvem AWS – LocalizaLabs",
+        "period": "2023 - 2023",
+        "description": "Segundo Botcamp administrada pela Dio.me sendo seu incrivel ensinamento sobre 
+                        AWS."
       }
     ]
   }
