@@ -69,14 +69,24 @@
         "description": "Bacharelado em Analista de Sistemas, analisar e distribuir informações por meio de tecnologias, incluindo hardware, software e rede. Desse modo, as organizações adquirem maior eficiência nos processos, tomando decisões informadas."
       },
       {
-        "name": "Potência Tech iFood - Programação do Zero",
+        "name": "Potência Tech iFood - Programação do Zero / Dio.me",
         "period": "2023 - 2023",
         "description": "Botcamp dos melhores cursos de Programação do Zero com o ensinamento na pratica e aprendizagem em Logica de Programação e JavaScript."
       },
       {
-        "name": "Descubra a Nuvem AWS – LocalizaLabs",
+        "name": "Descubra a Nuvem AWS – LocalizaLabs / Dio.me",
         "period": "2023 - 2023",
         "description": "Segundo Botcamp administrada pela Dio.me sendo seu incrivel ensinamento sobre AWS."
+      }
+      {
+        "name": "Formação HTML Web Developer / Dio.me",
+        "period": "2023 - 2023",
+        "description": "Sou um desenvolvedor web apaixonado com experiência em HTML, CSS e JavaScript. Meu objetivo é criar sites e aplicativos da web que sejam visualmente atraentes e fáceis de usar. Tenho experiência em trabalhar com equipes de desenvolvimento e estou sempre procurando aprender novas tecnologias e habilidades."
+      }
+      {
+        "name": "Formação JavaScript Developer / Dio.me",
+        "period": "2023 - 2023",
+        "description": "Sou um desenvolvedor web apaixonado por JavaScript e suas infinitas possibilidades. Possuo experiência em desenvolvimento front-end e back-end, com habilidades em HTML, CSS, JavaScript, Node.js, React, e outras tecnologias web. Meu objetivo é criar soluções inovadoras e eficientes para os desafios do mundo digital."
       }
     ]
   }
