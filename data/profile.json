@@ -100,6 +100,18 @@
         "period": "2023 - 2023",
         "description": "Sou um desenvolvedor web apaixonado por JavaScript e suas infinitas possibilidades. Possuo experiência em desenvolvimento front-end e back-end, com habilidades em HTML, CSS, JavaScript, Node.js, React, e outras tecnologias web. Meu objetivo é criar soluções inovadoras e eficientes para os desafios do mundo digital.",
         "url":"https://www.dio.me/certificate/92390ECF/share"
+      },
+      {
+        "name": "DEV Samurai / Lógica de Programação Avançado",
+        "period": "2023 - 2023",
+        "description": "Curso administrado pela DEV SAMURAI onde ensina os primeiros passos da programação",
+        "url":"https://class.devsamurai.com.br/certificates/09dd7564-3afc-4654-8483-9c351cc8a889/validate"
+      },
+      {
+        "name": "DEV Samurai / JavaScript Avançado",
+        "period": "2023 - 2023",
+        "description": "Curso administrado pela DEV SAMURAI. Ensinamento na linguagem de programação em JavaScrit.",
+        "url":"https://class.devsamurai.com.br/certificates/0bd66a41-8a00-4e81-8fa6-cc1e819ac0fd/validate"
       }
     ]
   }
