@@ -30,6 +30,10 @@
         {
           "name": "VSCode",
           "logo": "https://raw.githubusercontent.com/Andersondlz/desafio_dio_Portfolio/main/data/imgs/vscode.png"
+        },
+        {
+          "name": "WordPress",
+          "logo": "https://raw.githubusercontent.com/Andersondlz/desafio_dio_Portfolio/main/data/imgs/wordpress.png"
         }
       ],
       "softSkills": [
