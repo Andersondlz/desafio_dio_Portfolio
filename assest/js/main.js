@@ -57,6 +57,7 @@ function updateProfessionalExperience(profileData){
                 <h3 class="title">${experience.name}</h3>
                 <p class="period">${experience.period}</p>
                 <p>${experience.description}</p>
+                <a href="${experience.url}" target="_black">${experience.url}</a>
             </li>
         `
     }).join('')
