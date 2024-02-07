@@ -32,6 +32,10 @@
           "logo": "https://raw.githubusercontent.com/Andersondlz/desafio_dio_Portfolio/main/data/imgs/vscode.png"
         },
         {
+          "name": "Azure",
+          "logo": "https://raw.githubusercontent.com/Andersondlz/desafio_dio_Portfolio/main/assest/img/icons/languages/Microsoft_Azure.svg.png"
+        },
+        {
           "name": "WordPress",
           "logo": "https://raw.githubusercontent.com/Andersondlz/desafio_dio_Portfolio/main/data/imgs/wordpress1.png"
         }
