@@ -55,6 +55,11 @@
     ],
     "portfolio": [
       {
+        "name": "Curso Ministrado na RocketSeat para a criação de uma Quizz",
+        "url": "https://github.com/Andersondlz/aplicacao_quizz",
+        "github": true
+      },
+      {
         "name": "Curso Ministrado na DIO.me para a criação de uma Pokedex",
         "url": "https://github.com/Andersondlz/PrimeiroAPI_PokeAPI",
         "github": true
