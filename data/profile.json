@@ -55,6 +55,11 @@
     ],
     "portfolio": [
       {
+        "name": "Curso Ministrado na Dio.me para a criação de uma pagina clone DISCORD",
+        "url": "https://github.com/Andersondlz/Desafio_css_Discord",
+        "github": true
+      },
+      {
         "name": "Curso Ministrado na RocketSeat para a criação de um Quizz",
         "url": "https://github.com/Andersondlz/aplicacao_quizz",
         "github": true
