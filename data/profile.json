@@ -60,6 +60,11 @@
         "github": true
       },
       {
+        "name": "Curso Ministrado na Dio.me clonando a pagina da HBO",
+        "url": "https://github.com/Andersondlz/Desafio_CSS_CloneHbo",
+        "github": true
+      },
+      {
         "name": "Curso Ministrado na RocketSeat participando da Trilha Explore",
         "url": "https://github.com/Andersondlz/nlw_esport_explore",
         "github": true
@@ -98,9 +103,15 @@
         "url":"https://drive.google.com/file/d/1nqwo8fbuWo0zOIqikXZeGuv4BpQgEvsu/view?usp=sharing"
       },
       {
+        "name": "Dio.me /Formação CSS Web Developer",
+        "period": "2024 - 2024",
+        "description": "Desenvolvimento de uma aplicação front-end em HTML e CSS, conceitos teóricos dos fundamentos da programação e estilização com animação, criação de estrutura base com HTML e CSS, aplicação de lógica de programação",
+        "url":"https://www.dio.me/certificate/2OMJPK8Z/share"
+      },
+      {
         "name": "RocketSeat /NLW Expert",
         "period": "2024 - 2024",
-        "description": "Desenvolvimento de uma aplicação front-end em HTML, CSS e JavaScript, conceitos teóricos dos fundamentos da programação, criação de estrutura base com HTML, estilização com CSS, aplicação de lógica de programação com o JavaScript , IA para gerar as perguntas e uso do GitHub e GitHub Pages para publicar a aplicação",
+        "description": "Desenvolvimento de uma aplicação front-end em HTML, CSS JavaScript, conceitos teóricos dos fundamentos da programação, criação de estrutura base com HTML, estilização com CSS, aplicação de lógica de programação com o JavaScript , IA para gerar as perguntas e uso do GitHub e GitHub Pages para publicar a aplicação",
         "url":"https://app.rocketseat.com.br/certificates/8fd52db1-0c4a-4115-88aa-4e17b1ddf839"
       },
       {
@@ -130,7 +141,7 @@
       {
         "name": "Dio.me / Formação HTML Web Developer",
         "period": "2023 - 2023",
-        "description": "Sou um desenvolvedor web apaixonado com experiência em HTML, CSS e JavaScript. Meu objetivo é criar sites e aplicativos da web que sejam visualmente atraentes e fáceis de usar. Tenho experiência em trabalhar com equipes de desenvolvimento e estou sempre procurando aprender novas tecnologias e habilidades.",
+        "description": "Sou um desenvolvedor web apaixonado com experiência em HTML. Meu objetivo é criar sites e aplicativos da web que sejam visualmente atraentes e fáceis de usar. Tenho experiência em trabalhar com equipes de desenvolvimento e estou sempre procurando aprender novas tecnologias e habilidades.",
         "url":"https://www.dio.me/certificate/98DA8287/share"
       },
       {
