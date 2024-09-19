@@ -55,6 +55,16 @@
     ],
     "portfolio": [
       {
+        "name": "Curso Ministrado na Dio.me / Desafio de projeto do Felipão: Mario Kart.JS",
+        "url": "https://github.com/Andersondlz/dio_desafio_marioBrows",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na Dio.me para a criação de um Gerador de QRCode pelo Terminal programado em JavaScritp em NodeJS",
+        "url": "https://github.com/Andersondlz/dio_geradorQrcode",
+        "github": true
+      },
+      {
         "name": "Curso Ministrado na Dio.me para a criação de uma pagina clone DISCORD",
         "url": "https://github.com/Andersondlz/Desafio_css_Discord",
         "github": true
