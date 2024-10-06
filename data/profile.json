@@ -12,6 +12,10 @@
           "logo": "https://raw.githubusercontent.com/Andersondlz/desafio_dio_Portfolio/main/data/imgs/nodejs.png"
         },
         {
+          "name": "TypeScript",
+          "logo": "https://raw.githubusercontent.com/Andersondlz/desafio_dio_Portfolio/main/data/imgs/typescript.svg"
+        },
+        {
           "name": "JavaScript",
           "logo": "https://raw.githubusercontent.com/Andersondlz/desafio_dio_Portfolio/main/data/imgs/js.png"
         },
@@ -111,6 +115,12 @@
         "period": "2002 - 2005",
         "description": "Bacharelado em Analista de Sistemas, analisar e distribuir informações por meio de tecnologias, incluindo hardware, software e rede. Desse modo, as organizações adquirem maior eficiência nos processos, tomando decisões informadas.",
         "url":"https://drive.google.com/file/d/1nqwo8fbuWo0zOIqikXZeGuv4BpQgEvsu/view?usp=sharing"
+      },
+      {
+        "name": "Dio.me / Formação Node.js Fundamentals",
+        "period": "2024 - 2024",
+        "description": "Formação completa em NodeJs com arquitetura de projeto. Curso administrado pela plataforma DIO, aprendendo o basico da programação em TypeScript",
+        "url":"https://www.dio.me/certificate/4LDEAZCI/share"
       },
       {
         "name": "Dio.me / Formação GFT -  Desenvolvimento Java com IA",
