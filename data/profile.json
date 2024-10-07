@@ -59,6 +59,11 @@
     ],
     "portfolio": [
       {
+        "name": "Curso Ministrado na Dio.me / Projeto Champions League Data Hub",
+        "url": "https://github.com/Andersondlz/dio_nodejs_championsLeague",
+        "github": true
+      },
+      {
         "name": "Curso Ministrado na Dio.me / Desafio de projeto do Felipão: Mario Kart.JS",
         "url": "https://github.com/Andersondlz/dio_desafio_marioBrows",
         "github": true
