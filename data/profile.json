@@ -59,6 +59,21 @@
     ],
     "portfolio": [
       {
+        "name": "Curso Ministrado na Dio.me / Projeto Game JO KE PO com cartas de Yu Gi Oh",
+        "url": "https://github.com/Andersondlz/dio_Game_Jokepo_Yu_GI",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na Dio.me / Projeto Game Jogo da Memoria",
+        "url": "https://github.com/Andersondlz/dio_JogodaMemoria",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na Dio.me / Projeto Game Detona Ralph",
+        "url": "https://github.com/Andersondlz/dio_Game_Detona_Ralph",
+        "github": true
+      },
+      {
         "name": "Curso Ministrado na Dio.me / Projeto Champions League Data Hub",
         "url": "https://github.com/Andersondlz/dio_nodejs_championsLeague",
         "github": true
