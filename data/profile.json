@@ -59,6 +59,21 @@
     ],
     "portfolio": [
       {
+        "name": "Curso Ministrado na Dio.me / Meu portifolio oficial, com as habilidades na programação",
+        "url": "https://andersondlz.github.io/",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na Dio.me / Site do  Filme Spiderman (Homem Aranha) dos 3 principais personagens",
+        "url": "https://github.com/Andersondlz/home_spiderman",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na Dio.me / Criando um landing page da Serie Stranger Things da Netfilx",
+        "url": "https://github.com/Andersondlz/mundo-invertido",
+        "github": true
+      },
+      {
         "name": "Curso Ministrado na Dio.me / Projeto Game JO KE PO com cartas de Yu Gi Oh",
         "url": "https://github.com/Andersondlz/dio_Game_Jokepo_Yu_GI",
         "github": true
